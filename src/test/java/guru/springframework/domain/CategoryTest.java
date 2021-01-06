@@ -21,6 +21,7 @@ public class CategoryTest {
         category.setId(idValue);
 
         assertEquals(idValue, category.getId());
+
     }
 
     @Test
